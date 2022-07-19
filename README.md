@@ -74,4 +74,4 @@ Type: `function`
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT) © Tomas Aparicio
+[MIT](http://opensource.org/licenses/MIT) © Thomas Cosialls

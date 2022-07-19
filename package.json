@@ -1,6 +1,6 @@
 {
   "name": "wav-concat",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Tiny Node.js module to concat your audio files (.wav format) without any gap",
   "main": "index.js",
   "repository": "tomtomdu73/wav-concat",
