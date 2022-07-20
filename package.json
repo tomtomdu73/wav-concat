@@ -1,11 +1,11 @@
 {
   "name": "wav-concat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tiny Node.js module to concat your audio files (.wav format) without any gap",
   "main": "index.js",
   "repository": "tomtomdu73/wav-concat",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "wav",
@@ -21,5 +21,9 @@
   "license": "MIT",
   "dependencies": {
     "fluent-ffmpeg": "^2.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
   }
 }
